@@ -14,7 +14,7 @@
     width: 170px;
 }
 
-.header__logo img:hover{
+.header__logo img:hover {
     cursor: pointer;
 }
 
@@ -438,7 +438,7 @@
     margin-right: 20px;
 }
 
-.footer-original__s2__two i:hover{
+.footer-original__s2__two i:hover {
     cursor: pointer;
 }
 
@@ -475,7 +475,7 @@
         align-items: center;
     }
 
-    .menu:hover{
+    .menu:hover {
         cursor: pointer;
     }
 
@@ -541,6 +541,10 @@
         flex-basis: 40%;
         margin-left: 10px;
         margin-top: 10px;
+    }
+
+    .sea-container h1 {
+        font-size: 20px;
     }
 
     .recent-container {
@@ -677,7 +681,7 @@
         font-size: 30px;
     }
 
-    .footer__socialmedia i:hover{
+    .footer__socialmedia i:hover {
         cursor: pointer;
     }
 }
