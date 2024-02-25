@@ -10,11 +10,11 @@
     justify-content: space-around;
 }
 
-.header__logo img {
+.header img {
     width: 170px;
 }
 
-.header__logo img:hover {
+.header img:hover {
     cursor: pointer;
 }
 
